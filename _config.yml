@@ -23,12 +23,12 @@ plugins:
 footer-links:
   dribbble:
   email: contact@whattobringtocollege.com
-  facebook: https://www.facebook.com/whattobringtocollege
+  facebook: whattobringtocollege
   flickr:
   github:
   instagram:
   linkedin:
-  pinterest: https://www.pinterest.com/whattobringtocollege/
+  pinterest: whattobringtocollege
   rss: # just type anything here for a working RSS icon
   twitter: bringtocollege
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
